@@ -8,4 +8,4 @@
 - Acciones asíncronas
 - RTK Query
 - Redux Toolkit
-- Slices
+- Slices 
